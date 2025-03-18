@@ -1,17 +1,18 @@
+
 body{
-    background-color: rgb(252, 244, 211);
-    color: rgb(0, 0, 0);
+   
+
     font-family: Arial;
     text-align: center;
 }
 h2{
-    color: rgb(75, 73, 71);
+    color: rgb(168, 19, 62);
     font-size: large;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 h3{
-    color: rgb(75, 73, 71);
+    color: rgb(219, 0, 48);
     font-size: large;
     font-family: Arial, sans-serif;
     text-align: center;
@@ -23,11 +24,12 @@ label{
     font-weight: bold;  
     font-size: large;
     border-radius: 24px;
+    text-align: center;
 }
-input{
+input , button{
     color: black;
     background-color: bisque;
     font-size: 24px;
     border-radius: 24px;
-
+text-align: center;
 }
